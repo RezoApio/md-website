@@ -20,6 +20,7 @@ Step 1: Create the Solution
 
 From the **File** menu, select "**New Solution**", this will open up the "New Solution" window. Select "C#" from the language list and "**Console Project**" from the templates. Give your application a name as so:
 
+[This window is not correct]
 ![New\_Solution\_Window.png](/images/345-New_Solution_Window.png)
 
 When you are finished, click the "New" button. This creates a new directory for your solution in the Projects directory of your home directory. The "Console Project" template provides an already buildable application. You can test by selecting "Run" from the "Run" menu. This will build the application, and provide the output in an "Application Output" tab.
